@@ -1,7 +1,7 @@
 HOW TO USE:
 
 To find and plot velocity inhibition during trajectory intersection events:
-1. Run "vidTrack.m" and select tif files 1-5 in the "stacks" folder.
+1. Run "vidTrack.m" and select tif image stack.
 2. Run "findCrossings.m" to find events where trajectories intersect.
 3. Run "intersectionPlot.m" to calculate the velocity reduction at intersection events and plot the reduction in velocity vs. dt.
 
